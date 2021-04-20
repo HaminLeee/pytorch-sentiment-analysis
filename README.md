@@ -1,3 +1,15 @@
+# CSC413 Team 81
+Hamin Lee and Peng-Cheng Chu
+
+## Description
+
+This is the code implementation for the CSC413 Final Project for Team 81. 
+The code is a modified version of the following repo: https://github.com/bentrevett/pytorch-sentiment-analysis 
+The Reddit and Twitter dataset is taken from Kaggle: https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
+
+We modified the original code in order to make it compatible with our data.
+
+
 # PyTorch Sentiment Analysis
 
 ## Note: This repo only works with torchtext 0.9 or above which requires PyTorch 1.8 or above. If you are using torchtext 0.8 then please use [this](https://github.com/bentrevett/pytorch-sentiment-analysis/tree/torchtext08) branch
